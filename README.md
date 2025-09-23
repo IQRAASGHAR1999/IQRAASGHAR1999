@@ -11,12 +11,12 @@
 <h2 align="left">👩‍💻 About Me</h2>
 
 <ul>
-<li><strong>🔭 Interests:</strong> Machine Learning, Computer Vision, Artificial Intelligence, Deep Learning, Photogrammetry, Cloud Computing</li>
+<li><strong>🔭 Interests:</strong> Machine Learning, Computer Vision, Artificial Intelligence, Deep Learning, Photogrammetry, Cloud Computing (AWS & GCP)</li>
 <li><strong>💼 Current Role:</strong> Data Operations Engineer</li>
 <li><strong>⚡ Fun Fact:</strong> I love transforming data into actionable insights and building smart solutions.</li>
-<li><strong>🛠️ Tech Stack:</strong> Python, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, Cloud Platforms</li>
+<li><strong>🛠️ Tech Stack:</strong> Python, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, AWS, GCP, Cloud Platforms</li>
 <li>👩‍💻 Explore my projects below or see all at <a href="https://github.com/IQRAASGHAR1999?tab=repositories">my repositories</a></li>
-<li>💬 Ask me about Python, Machine Learning, Computer Vision, Data Ops</li>
+<li>💬 Ask me about Python, Machine Learning, Computer Vision, Data Ops, AWS or GCP</li>
 <li>📫 Reach me at: <a href="https://www.linkedin.com/in/iqraasghar99/">LinkedIn</a></li>
 </ul>
 
@@ -53,6 +53,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud)
 ![Cloud](https://img.shields.io/badge/-Cloud-05122A?style=flat&logo=cloud&logoColor=4285F4)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)

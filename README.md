@@ -39,8 +39,6 @@
 - [Image Classification with KNN and SVM](https://github.com/IQRAASGHAR1999/Image-Classification-with-KNN-and-SVM)  
   <em>Comparison of KNN and SVM algorithms for image recognition.</em>
 
-- [Heart Disease Prediction](https://github.com/IQRAASGHAR1999/Heart_Disease_Prediction)  
-  <em>ML-powered prediction for healthcare applications.</em>
 
 <br>
 

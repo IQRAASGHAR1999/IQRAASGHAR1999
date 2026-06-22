@@ -33,11 +33,14 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
+- [DIEP-ThermoSim](https://github.com/IQRAASGHAR1999/DIEP-ThermoSim/tree/main)  
+  *Deep learning-based thermal simulation pipeline for computer vision and thermographic data analysis.*
+
 - [CNN-based Image Classification using CIFAR dataset](https://github.com/IQRAASGHAR1999/CNN-based-Image-Classification-using-CIFAR-dataset-)  
-  <em>Convolutional Neural Network for image classification on the CIFAR dataset.</em>
+  *Convolutional Neural Network for image classification on the CIFAR dataset.*
 
 - [Image Classification with KNN and SVM](https://github.com/IQRAASGHAR1999/Image-Classification-with-KNN-and-SVM)  
-  <em>Comparison of KNN and SVM algorithms for image recognition.</em>
+  *Comparison of KNN and SVM algorithms for image recognition.*
 
 
 <br>

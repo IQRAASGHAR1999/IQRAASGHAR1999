@@ -33,6 +33,9 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
+- [SafeVLA-Retrieval](https://github.com/IQRAASGHAR1999/SafeVLA-Retrieval/tree/main)  
+  *A safe retrieval framework utilizing Vision-Language-Action (VLA) models for secure and context-aware AI operations.*
+
 - [DIEP-ThermoSim](https://github.com/IQRAASGHAR1999/DIEP-ThermoSim/tree/main)  
   *Deep learning-based thermal simulation pipeline for computer vision and thermographic data analysis.*
 

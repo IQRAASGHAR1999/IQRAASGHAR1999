@@ -33,6 +33,9 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
+- [DynGS-Pro: Dynamic Scene Rendering Using Progressive Gaussian Splatting and Deformation Fields](https://github.com/IQRAASGHAR1999/DynGS-Pro)  
+  *My Master's Thesis project. Developed a hybrid explicit-model-plus-learned-residual framework for dynamic 4D scene reconstruction, leveraging progressive 3D Gaussian Splatting combined with deformation fields.*
+
 - [SafeVLA-Retrieval](https://github.com/IQRAASGHAR1999/SafeVLA-Retrieval/tree/main)  
   *A safe retrieval framework utilizing Vision-Language-Action (VLA) models for secure and context-aware AI operations.*
 

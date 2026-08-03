@@ -37,7 +37,7 @@
   *My Master's Thesis project. Developed a hybrid explicit-model-plus-learned-residual framework for dynamic 4D scene reconstruction, leveraging progressive 3D Gaussian Splatting combined with deformation fields.*
 
 - [Splat-Sentinel](https://github.com/IQRAASGHAR1999/splat-sentinel)  
-  *A specialized tool/framework for 3D Gaussian Splatting processing and analysis.*
+  *Agentic, semantic-aware inspection planning on 4D Gaussian world models.*
 
 - [SafeVLA-Retrieval](https://github.com/IQRAASGHAR1999/SafeVLA-Retrieval/tree/main)  
   *A safe retrieval framework utilizing Vision-Language-Action (VLA) models for secure and context-aware AI operations.*
